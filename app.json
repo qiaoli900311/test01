@@ -1,0 +1,18 @@
+{
+    "name": "test01",
+    "description": "miaoshu-test01",
+    "dependencies": {},
+    "alias": {},
+    "appKey": "J1V8QUm1USER7tsTS10dmzh1bcqwwUf8",
+    "appSecret": "4Ov91aw6rIYpCIcgzYLecA3eqDuAtzq1",
+    "framework": "vue",
+    "git": {
+        "url": "https://github.com/qiaoli900311/test01.git",
+        "isPrivate": 1,
+        "username": "qiaoli900311",
+        "password": "48111400qiaoli"
+    },
+    "id": 218,
+    "platform": "pc",
+    "projectId": "eba718129d54f169e514cec9c4e1065e"
+}
